@@ -1,6 +1,6 @@
 streamlit
 scikit-learn
-yfinance
 pandas
-ta
-xgboost
+matplotlib
+scipy
+numpy
